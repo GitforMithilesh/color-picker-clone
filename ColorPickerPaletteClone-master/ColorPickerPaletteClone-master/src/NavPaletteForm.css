@@ -1,0 +1,27 @@
+.NavPaletteForm {
+  overflow: hidden !important;
+    display: flex;
+}
+
+.navAppBar {
+    flex-direction: row !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    height: 64px !important;
+}
+
+.navBtns {
+    margin-right: 1rem;
+}
+
+.navBtns a{
+    text-decoration: none;
+}
+
+.btn--nav {
+    margin: 0 0.5rem !important;
+}
+
+.btn--nav a{
+    text-decoration: none;
+}

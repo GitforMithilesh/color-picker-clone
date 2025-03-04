@@ -1,0 +1,10 @@
+.DraggableColorList ul{
+    height: calc(100vh - 64px);
+    padding: 0;
+    margin-top: 0;
+}
+
+.DraggableColorList {
+    height: 100vh;
+  /* overflow: hidden !important; */
+}
